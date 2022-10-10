@@ -1,3 +1,6 @@
 [submodule "submarines"]
 	path = submarines
 	url = C:/Program Files/Git/submarines
+[submodule "Submarines"]
+	path = Submarines
+	url = https://github.com/G4Lactus/Submarines.git
